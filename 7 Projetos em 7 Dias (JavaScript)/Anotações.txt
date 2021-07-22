@@ -1,1 +1,4 @@
-console.log(event.code);
+Seria legal colocar um botão de loop no projeto 1;
+Seria legal colocar mais informações no projeto 3;
+Seria legal misturar o projeto 2 com o 3;
+Seria interessante colocar um placar no projeto 4;
