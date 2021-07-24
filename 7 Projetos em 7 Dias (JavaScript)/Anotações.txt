@@ -1,4 +1,9 @@
+Essas anotações são feitas para que quando eu aprender mais sobre JavaScript eu me desafie a fazer essas alterações.
+
+
 Seria legal colocar um botão de loop no projeto 1;
 Seria legal colocar mais informações no projeto 3;
 Seria legal misturar o projeto 2 com o 3;
 Seria interessante colocar um placar no projeto 4;
+Seria Útil adicionar uma borracha no projeto 5;
+Seria interessante colocar um botão de download da imagem no projeto 5;
