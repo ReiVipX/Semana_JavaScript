@@ -20,7 +20,7 @@ Projeto 4
 -Jogo da Velha
 
 Projeto 5
--
+-Desenhando no Canvas
 
 Projeto 6
 -
