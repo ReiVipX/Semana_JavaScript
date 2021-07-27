@@ -8,3 +8,4 @@ Seria interessante colocar um placar no projeto 4;
 Seria Útil adicionar uma borracha no projeto 5;
 Seria interessante colocar um botão de download da imagem no projeto 5;
 Seria divertido fazer um quiz personalizado com mais perguntas de diferentes assuntos no projeto 6;
+Poderia fazer um quebra-cabeça simples com o sistema do projeto 7;
